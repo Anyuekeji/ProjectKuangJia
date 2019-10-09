@@ -132,10 +132,6 @@
 	<string>app需要你的位置用于定位</string>
 	<key>NSLocationUsageDescription</key>
 	<string>app需要你的位置用于定位</string>
-	<key>UIBackgroundModes</key>
-	<array>
-		<string>remote-notification</string>
-	</array>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>

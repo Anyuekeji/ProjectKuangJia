@@ -8,12 +8,10 @@
 
 #import "THBookRackViewController.h"
 
-@interface THBookRackViewController ()<THBookRackHeadViewDelegate>{
+@interface THBookRackViewController (){
     
 }
 
-@property (nonatomic,strong)THBookRackViewModel *viewModel;
-@property (nonatomic,strong) NSArray *actionArray;
 
 @end
 
